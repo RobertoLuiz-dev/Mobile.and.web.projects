@@ -1,5 +1,5 @@
-Fazemos projetos para mobile e web! 
-Mais um projetinho com foco na responsividade | adequação aos diferentes tamanhos de tela
+We create projects for mobile and web! 
+Another little project with a focus on responsiveness | adaptation to different screen sizes
 
 ![image](https://github.com/user-attachments/assets/d31cfcd2-ea41-45d4-aa4d-b676948f2372)
 
